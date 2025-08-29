@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "description": "tarea editada",
+    "status": "DONE",
+    "createdAt": "8/29/2025, 12:54:27 PM",
+    "updatedAt": "8/29/2025, 12:54:27 PM"
+  },
+  {
+    "id": 2,
+    "description": "tarea 1",
+    "status": "TO-DO",
+    "createdAt": "8/29/2025, 1:02:37 PM",
+    "updatedAt": "8/29/2025, 1:02:37 PM"
+  },
+  {
+    "id": 3,
+    "description": "tarea 1",
+    "status": "TO-DO",
+    "createdAt": "8/29/2025, 1:02:37 PM",
+    "updatedAt": "8/29/2025, 1:02:37 PM"
+  },
+  {
+    "id": 4,
+    "description": "tarea 1",
+    "status": "TO-DO",
+    "createdAt": "8/29/2025, 1:02:38 PM",
+    "updatedAt": "8/29/2025, 1:02:38 PM"
+  },
+  {
+    "id": 5,
+    "description": "tarea 1",
+    "status": "TO-DO",
+    "createdAt": "8/29/2025, 1:02:38 PM",
+    "updatedAt": "8/29/2025, 1:02:38 PM"
+  }
+]
